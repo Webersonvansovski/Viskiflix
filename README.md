@@ -1,2 +1,3 @@
 # Viskiflix
-Clone da netflix com o Django
+Clone da netflix feito com o Django
+
