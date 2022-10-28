@@ -4,7 +4,7 @@ Clone da netflix feito com o Django
 ## Funções
 O usuario pode fazer as seguintes coisas:
 
-- O usuário ver os diferentes tipos de filmes, series e documentarios disponiveis.
+- O usuário pode ver os diferentes tipos de filmes, series e documentarios disponiveis.
 - O usuário pode ver a descrição os episódios e a quantidade de vizualização do filme.
 - O usuário pode ver o Trailer ou um Edit do filme e sair e o filme estará na aba de Continuar Assistindo.
 
@@ -13,7 +13,7 @@ O aplicativo requer as seguintes instalações para funcionar:
 - pip
 - gunicorn
 - django
-- postgresql
+- AWS
 - requests
 
 ## Tecnologia Usada
