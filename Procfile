@@ -1,0 +1,1 @@
+web: gunicorn viskiflix.wsgi --log-file -
